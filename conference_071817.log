@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  25 NOV 2017 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 NOV 2017 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,7 +344,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks22
 \@floatcapt=\box31
 )
-No file conference_071817.aux.
+(./conference_071817.aux)
 \openout1 = `conference_071817.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -361,6 +361,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -453,39 +454,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
  []
 
 
-LaTeX Warning: Reference `fig:subfig1' on page 2 undefined on input line 63.
+Underfull \hbox (badness 3271) in paragraph at lines 61--62
+[]\OT1/ptm/m/n/10 We sep-a-rate the time of ex-plor-ing phase into two
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 61--62
+\OT1/ptm/m/n/10 part: mov-ing time and no-ti-fy-ing time. In the whole
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 61--62
+\OT1/ptm/m/n/10 phase of ex-plor-ing phase, they are ar-ranged as be-low:
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
-<figures/chordal_a_l.png, id=15, 217.81375pt x 34.1275pt>
+<figures/chordal_a_l.png, id=16, 643.6547pt x 101.62968pt>
 File: figures/chordal_a_l.png Graphic file (type png)
 
 <use figures/chordal_a_l.png>
 Package pdftex.def Info: figures/chordal_a_l.png used on input line 69.
-(pdftex.def)             Requested size: 216.81pt x 33.97012pt.
+(pdftex.def)             Requested size: 216.81pt x 34.23262pt.
 
-<figures/chordal_a1_l.png, id=17, 207.77625pt x 32.12pt>
+<figures/chordal_a1_l.png, id=17, 643.6547pt x 101.62968pt>
 File: figures/chordal_a1_l.png Graphic file (type png)
 
 <use figures/chordal_a1_l.png>
 Package pdftex.def Info: figures/chordal_a1_l.png used on input line 73.
-(pdftex.def)             Requested size: 216.81pt x 33.51768pt.
+(pdftex.def)             Requested size: 216.81pt x 34.23262pt.
 
-
-LaTeX Warning: Reference `fig:subfig' on page 2 undefined on input line 84.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-\OT1/ptm/m/n/10 . We would make some mod-i-fi-ca-tion in the
+Underfull \hbox (badness 3895) in paragraph at lines 84--85
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 d[] [] \OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/1
+0 d[] \OT1/cmr/m/n/10 + []$\OT1/ptm/m/n/10 . In this case, the no-ti-
  []
 
 
-Underfull \hbox (badness 4454) in paragraph at lines 84--85
-\OML/cmm/m/it/10 Surrounding and Elimination$ \OT1/ptm/m/n/10 phase, but now le
-t us
+Underfull \hbox (badness 3148) in paragraph at lines 84--85
+\OT1/ptm/m/n/10 fy-ing route of the $\OML/cmm/m/it/10 NA$ \OT1/ptm/m/n/10 whose
+ co-or-di-nate is $\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 d[]$ \OT1/ptm/m/n/10 is
+
  []
 
 [2 <./figures/chordal_a_l.png> <./figures/chordal_a1_l.png>]
@@ -495,19 +506,19 @@ File: figures/tjt1.png Graphic file (type png)
 Package pdftex.def Info: figures/tjt1.png used on input line 90.
 (pdftex.def)             Requested size: 180.67499pt x 42.57988pt.
 
-<figures/tjt2.png, id=31, 225.4824pt x 74.1972pt>
+<figures/tjt2.png, id=32, 225.4824pt x 74.1972pt>
 File: figures/tjt2.png Graphic file (type png)
  <use figures/tjt2.png>
 Package pdftex.def Info: figures/tjt2.png used on input line 94.
 (pdftex.def)             Requested size: 180.67499pt x 59.45518pt.
 
-<figures/tjt3.png, id=32, 210.5466pt x 73.2336pt>
+<figures/tjt3.png, id=33, 210.5466pt x 73.2336pt>
 File: figures/tjt3.png Graphic file (type png)
  <use figures/tjt3.png>
 Package pdftex.def Info: figures/tjt3.png used on input line 98.
 (pdftex.def)             Requested size: 180.67499pt x 62.84778pt.
 
-<figures/tjt4.png, id=33, 229.8186pt x 58.7796pt>
+<figures/tjt4.png, id=34, 229.8186pt x 58.7796pt>
 File: figures/tjt4.png Graphic file (type png)
  <use figures/tjt4.png>
 Package pdftex.def Info: figures/tjt4.png used on input line 102.
@@ -523,19 +534,8 @@ Underfull \hbox (badness 2486) in paragraph at lines 112--114
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 112--114
-\OML/cmm/m/it/10 Three Jump Notification Technique$ \OT1/ptm/m/n/10 be-gins. In
- ``Route
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 112--114
-\OT1/ptm/m/n/10 of the agent in ex-plor-ing phase", we say that in the
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 112--114
-\OT1/ptm/m/n/10 ex-plor-ing phase ev-ery cy-cle con-tains one unit of time
+Underfull \hbox (badness 2020) in paragraph at lines 112--114
+\OT1/ptm/m/n/10 the three units of time for no-ti-fy-ing are re-served for
  []
 
 
@@ -560,104 +560,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 [3 <./figures/tjt1.png> <./figures/tjt2.png> <./figures/tjt3.png> <./figures/tj
-t4.png>] [4]
-
-LaTeX Warning: Reference `fig:T29' on page 5 undefined on input line 169.
-
-<figures/T29.png, id=45, 254.3904pt x 92.0238pt>
+t4.png>] [4] <figures/T29.png, id=46, 254.3904pt x 92.0238pt>
 File: figures/T29.png Graphic file (type png)
- <use figures/T29.png>
+
+<use figures/T29.png>
 Package pdftex.def Info: figures/T29.png used on input line 172.
 (pdftex.def)             Requested size: 206.39685pt x 74.66664pt.
-
-<figures/T50.png, id=46, 254.3904pt x 106.4778pt>
+ <figures/T50.png, id=47, 254.3904pt x 106.4778pt>
 File: figures/T50.png Graphic file (type png)
- <use figures/T50.png>
+
+<use figures/T50.png>
 Package pdftex.def Info: figures/T50.png used on input line 180.
 (pdftex.def)             Requested size: 206.39685pt x 86.39438pt.
-
-<figures/T611.png, id=47, 254.3904pt x 105.5142pt>
+ <figures/T611.png, id=48, 254.3904pt x 105.5142pt>
 File: figures/T611.png Graphic file (type png)
- <use figures/T611.png>
+
+<use figures/T611.png>
 Package pdftex.def Info: figures/T611.png used on input line 188.
 (pdftex.def)             Requested size: 206.39685pt x 85.61255pt.
-
-<figures/T612.png, id=48, 254.3904pt x 105.5142pt>
+ <figures/T612.png, id=49, 254.3904pt x 105.5142pt>
 File: figures/T612.png Graphic file (type png)
- <use figures/T612.png>
+
+<use figures/T612.png>
 Package pdftex.def Info: figures/T612.png used on input line 194.
 (pdftex.def)             Requested size: 206.39685pt x 85.61255pt.
 
-Underfull \vbox (badness 2302) has occurred while \output is active []
+Underfull \vbox (badness 2189) has occurred while \output is active []
 
 
-<figures/T75.png, id=49, 254.3904pt x 119.9682pt>
+Underfull \hbox (badness 7832) in paragraph at lines 197--198
+\OT1/ptm/m/n/10 agents. First, it com-putes the $\OML/cmm/m/it/10 Notification 
+Window$
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 197--198
+\OT1/ptm/m/n/10 which is from node 55 to node 65. Note that the
+ []
+
+<figures/T75.png, id=50, 254.3904pt x 119.9682pt>
 File: figures/T75.png Graphic file (type png)
  <use figures/T75.png>
 Package pdftex.def Info: figures/T75.png used on input line 201.
 (pdftex.def)             Requested size: 206.39685pt x 97.34027pt.
 
-<figures/T66.png, id=50, 254.3904pt x 119.9682pt>
+<figures/T66.png, id=51, 254.3904pt x 119.9682pt>
 File: figures/T66.png Graphic file (type png)
  <use figures/T66.png>
 Package pdftex.def Info: figures/T66.png used on input line 208.
 (pdftex.def)             Requested size: 206.39685pt x 97.34027pt.
 
-<figures/T94.png, id=51, 254.3904pt x 148.8762pt>
+<figures/T94.png, id=52, 254.3904pt x 148.8762pt>
 File: figures/T94.png Graphic file (type png)
  <use figures/T94.png>
 Package pdftex.def Info: figures/T94.png used on input line 214.
 (pdftex.def)             Requested size: 206.39685pt x 120.79578pt.
 
-Underfull \vbox (badness 6526) has occurred while \output is active []
+Underfull \vbox (badness 5607) has occurred while \output is active []
 
  [5 <./figures/T29.png> <./figures/T50.png> <./figures/T611.png> <./figures/T61
 2.png> <./figures/T75.png> <./figures/T66.png>]
-
-LaTeX Warning: Reference `fig:D1' on page 6 undefined on input line 225.
-
-<figures/D1.png, id=62, 347.3778pt x 73.7154pt>
+<figures/D1.png, id=63, 347.3778pt x 73.7154pt>
 File: figures/D1.png Graphic file (type png)
  <use figures/D1.png>
 Package pdftex.def Info: figures/D1.png used on input line 228.
 (pdftex.def)             Requested size: 206.39685pt x 43.79764pt.
 
-
-LaTeX Warning: Reference `fig:D2' on page 6 undefined on input line 233.
-
-<figures/D2.png, id=63, 320.397pt x 80.9424pt>
+<figures/D2.png, id=64, 320.397pt x 80.9424pt>
 File: figures/D2.png Graphic file (type png)
  <use figures/D2.png>
 Package pdftex.def Info: figures/D2.png used on input line 236.
 (pdftex.def)             Requested size: 206.39685pt x 52.1426pt.
  [6 <./figures/T94.png> <./figures/D1.png> <./figures/D2.png>]
-
-LaTeX Warning: Citation `b1' on page 7 undefined on input line 259.
-
-
-LaTeX Warning: Citation `b2' on page 7 undefined on input line 260.
-
-
-LaTeX Warning: Citation `b3' on page 7 undefined on input line 261.
-
-
-LaTeX Warning: Citation `b3' on page 7 undefined on input line 261.
-
-
-LaTeX Warning: Citation `b3' on page 7 undefined on input line 261.
-
-
-LaTeX Warning: Citation `b3' on page 7 undefined on input line 262.
-
-
-LaTeX Warning: Citation `b4' on page 7 undefined on input line 270.
-
-
-LaTeX Warning: Citation `b5' on page 7 undefined on input line 271.
-
-
-LaTeX Warning: Citation `b6' on page 7 undefined on input line 276.
-
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -669,47 +643,44 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[7
-
-] (./conference_071817.aux)
+[7] (./conference_071817.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4266 strings out of 492995
- 63809 string characters out of 6132704
- 131490 words of memory out of 5000000
- 7739 multiletter control sequences out of 15000+600000
- 43840 words of font info for 98 fonts, out of 8000000 for 9000
+ 4278 strings out of 492995
+ 63949 string characters out of 6132704
+ 131727 words of memory out of 5000000
+ 7745 multiletter control sequences out of 15000+600000
+ 45385 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,26p,2265b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2017/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2017/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts
-/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
-/urw/times/utmbi8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
-s/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.
-pfb>
-Output written on conference_071817.pdf (7 pages, 594604 bytes).
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/ur
+w/times/utmbi8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on conference_071817.pdf (7 pages, 607333 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
